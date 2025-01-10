@@ -1,0 +1,15 @@
+# Cartelle e file create automaticamente, ma sono da ignorare
+
+
+# PyCharm
+.idea/
+.venv/
+
+# MacOS
+.DS_Store
+
+# Windows
+desktop.ini
+
+# VSC
+.vscode/
